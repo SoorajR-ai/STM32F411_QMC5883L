@@ -201,4 +201,4 @@ int main(void)
 <p>Contributions are welcome! If you have improvements, bug fixes, or new features, please submit a pull request.</p>
 
 <h2 id="license">License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License.</p>
