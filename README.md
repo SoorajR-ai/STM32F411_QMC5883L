@@ -104,6 +104,99 @@ int main(void)
 <h3>uint8_t QMC_getBearing()</h3>
 <p>Calculates and returns the bearing as an index (0-15) representing the compass direction.</p>
 
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Segment</th>
+            <th>Bearing Value</th>
+            <th>Direction</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>0</td>
+            <td>0°</td>
+            <td>North</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>22.5°</td>
+            <td>North-East</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>45°</td>
+            <td>East</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>67.5°</td>
+            <td>South-East</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>90°</td>
+            <td>South</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>112.5°</td>
+            <td>South-West</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>135°</td>
+            <td>West</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>157.5°</td>
+            <td>North-West</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>180°</td>
+            <td>South</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>202.5°</td>
+            <td>South-East</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>225°</td>
+            <td>East</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>247.5°</td>
+            <td>North-East</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>270°</td>
+            <td>North</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>292.5°</td>
+            <td>North-West</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>315°</td>
+            <td>West</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>337.5°</td>
+            <td>South-West</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! If you have improvements, bug fixes, or new features, please submit a pull request.</p>
 
